@@ -5,7 +5,10 @@ Message Room Arch:
 ```
 {
     "roomId": { 
-        "userId": userChannel
+        "userId": userChannel,
+        .
+        .
+        .
     }
 }
 ```
